@@ -7,6 +7,6 @@
 * 带参数就调用动画模拟输入搜索框并打开[百度](https://www.baidu.com)
 进行搜索。
 * 不带参数就显示生成链接界面,点击生成链接可生成带参数的链接。  
-## license
+## license  
 [MIT](/LICENSE)
 
